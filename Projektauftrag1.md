@@ -71,18 +71,16 @@ September 2025
 
 Personal: 2 Schüler (Projektteam)
 
-## Betreuung: 
+## Betreuung: Herr Klewein
 
 
 
 
 **Technische Ressourcen:** Schulserver, Entwicklungsumgebungen, Webframeworks
 
-Risiken:
+**Risiken:** Ablehnung des Proejekt von SCHULLEITER 
 
 Zeitdruck durch parallele Schulfächer und Matura
-
-Abweichende Vorstellungen zwischen Auftraggeber und Projektteam
 
 Technische Schwierigkeiten bei der Implementierung
 
@@ -91,12 +89,13 @@ Interne Koordinationsprobleme oder Ausfall einzelner Teammitglieder
 ## Projektorganisation:
 
 
-
+## projektleiter: Arwin Mohibe
 ## Projektteam:  Hamid Faru, Arwin Mohibe
 
-## Betreuer: 
+
+## Betreuer: Herr Klewein
 
 ## Abschluss des Projektauftrags:
 
-<u>Bitte Vorstellungsvermögen für die Unterschriften nutzen</u>
+Bitte Vorstellungsvermögen für die Unterschriften nutzen
 Linz, 20.09.2025
