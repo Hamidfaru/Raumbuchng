@@ -90,7 +90,7 @@ Interne Koordinationsprobleme oder Ausfall einzelner Teammitglieder
 
 
 ## projektleiter: Arwin Mohibe
-## Projektteam:  Hamid Faru, Arwin Mohibe
+## Projektteam:  Hamid Faru, Arwin Mohibe, Muhamed Jahic
 
 
 ## Betreuer: Herr Klewein
