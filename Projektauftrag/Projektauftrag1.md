@@ -69,7 +69,7 @@ September 2025
 
 ## Projektressourcen:
 
-Personal: 2 Schüler (Projektteam)
+Personal: 4 Schüler (Projektteam)
 
 ## Betreuung: Herr Klewein
 
@@ -90,7 +90,7 @@ Interne Koordinationsprobleme oder Ausfall einzelner Teammitglieder
 
 
 ## projektleiter: Arwin Mohibe
-## Projektteam:  Hamid Faru, Arwin Mohibe, Muhamed Jahic
+## Projektteam:  Hamid Faru, Muhamed Jahic
 
 
 ## Betreuer: Herr Klewein
